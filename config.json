@@ -1,0 +1,46 @@
+{
+  "excluded_patterns": [
+    ".git",
+    ".gitignore",
+    "node_modules",
+    ".snapshots",
+    ".idea",
+    ".vscode",
+    "*.log",
+    "*.tmp",
+    "target",
+    "dist",
+    "build",
+    ".DS_Store",
+    "*.bak",
+    "*.swp",
+    "*.swo",
+    "*.lock",
+    "*.iml",
+    "coverage",
+    "*.min.js",
+    "*.min.css",
+    "__pycache__",
+    ".env",
+    ".env.*"
+  ],
+  "default": {
+    "default_prompt": "Enter your prompt here",
+    "default_include_all_files": false,
+    "default_include_entire_project_structure": true
+  },
+  "included_patterns": [
+    "package.json",
+    "requirements.txt",
+    "Pipfile",
+    "Gemfile",
+    "composer.json",
+    ".editorconfig",
+    ".eslintrc.json",
+    ".eslintrc.js",
+    ".prettierrc",
+    ".babelrc",
+    ".dockerignore",
+    ".gitattributes"
+  ]
+}
