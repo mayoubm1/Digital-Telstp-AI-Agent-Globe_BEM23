@@ -8,10 +8,10 @@ The TELsTP AI Medical Assistant now uses Mistral AI for advanced language proces
 
 1. **API Key**: Already configured in `.env.local`
    \`\`\`
-   MISTRAL_API_KEY=0d2xZ6Nbczykp0WsoiE5QgmN5s8kruwn
+   MISTRAL_API_KEY=@mistralai
    \`\`\`
 
-2. **Model**: Using `mistral-large-latest` for optimal performance
+3. **Model**: Using `mistral-large-latest` for optimal performance
 
 ## Features
 
